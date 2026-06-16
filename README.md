@@ -1,4 +1,4 @@
-# 🔍 AA — AI Fraud Detection System
+# 🔍 AA - AI Fraud Detection System
 
 > Real-time credit card fraud detection powered by Machine Learning, built with a clean and interactive Streamlit web interface.
 
@@ -13,19 +13,19 @@
 
 The **AA Fraud Detection System** is an end-to-end machine learning application that analyzes credit card transactions in real time and classifies them as **Legitimate**, **Suspicious**, or **Fraudulent**. Trained on a real-world Kaggle dataset of 284,807 transactions, the model achieves **99.9% accuracy** and is deployed through an elegant, interactive web interface.
 
-This project demonstrates the full ML pipeline — from raw data and feature engineering all the way to a production-ready web application.
+This project demonstrates the full ML pipeline from raw data and feature engineering all the way to a production-ready web application.
 
 ---
 
 ## ✨ Features
 
-- 🚨 **Real-Time Fraud Detection** — Instantly analyzes any transaction and returns a fraud probability score
-- 📊 **Three-Tier Classification** — Transactions are classified as `LEGITIMATE ✅`, `SUSPICIOUS ⚠️`, or `FRAUD 🚨`
-- 💡 **Actionable Recommendations** — System recommends to Approve, Flag for Review, or Block the transaction
-- 🎛️ **28 Interactive PCA Feature Sliders** — Full control over all V1–V28 anonymized PCA features
-- 💰 **Adjustable Transaction Inputs** — Customizable transaction amount and time inputs
-- 📈 **Live Metrics Dashboard** — Displays fraud probability, prediction status, and transaction amount post-analysis
-- 🎨 **Custom Dark Purple UI** — Elegant gradient-themed interface with animated result cards
+- 🚨 **Real-Time Fraud Detection** - Instantly analyzes any transaction and returns a fraud probability score
+- 📊 **Three-Tier Classification** - Transactions are classified as `LEGITIMATE ✅`, `SUSPICIOUS ⚠️`, or `FRAUD 🚨`
+- 💡 **Actionable Recommendations** - System recommends to Approve, Flag for Review, or Block the transaction
+- 🎛️ **28 Interactive PCA Feature Sliders** - Full control over all V1–V28 anonymized PCA features
+- 💰 **Adjustable Transaction Inputs** - Customizable transaction amount and time inputs
+- 📈 **Live Metrics Dashboard** - Displays fraud probability, prediction status, and transaction amount post-analysis
+- 🎨 **Custom Dark Purple UI** - Elegant gradient-themed interface with animated result cards
 
 ---
 
@@ -218,7 +218,7 @@ This project is developed **strictly for educational and portfolio purposes**. I
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — feel free to use, modify, and distribute with attribution.
+This project is licensed under the **MIT License** - feel free to use, modify, and distribute with attribution.
 
 ---
 
